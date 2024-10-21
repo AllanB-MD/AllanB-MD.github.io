@@ -1,7 +1,7 @@
 # AllanB-MD.github.io
 # Welcome to My GitHub Portfolio
 
-Hi there! I’m **Dr. Allan Besiime**, a seasoned public health specialist with over 7 years of experience driving health systems strengthening programs across Sub-Saharan Africa. I thrive on using data-driven strategies to solve complex public health challenges and deliver impactful outcomes. My work is fueled by a passion for leveraging cutting-edge technologies and data science to optimize healthcare delivery.
+Hi there! I’m **Dr. Allan Besiime**, A public health specialist with 05+ years of experience driving health systems strengthening interventions across Sub-Saharan Africa. I thrive on using data-driven strategies to solve complex public health challenges and deliver impactful outcomes. My work is fueled by a passion for leveraging data science to optimize healthcare delivery.
 
 ## What I Bring to the Table
 
